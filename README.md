@@ -4,6 +4,8 @@ Este repositorio contiene el desarrollo final de la materia **Procesamiento del 
 
 El proyecto consiste en un **Agente Autónomo** basado en el paradigma **ReAct**, capaz de orquestar múltiples fuentes de datos heterogéneas (Texto, Tablas y Grafos) para responder consultas complejas de negocio y soporte técnico.
 
+-- Link de Colab: https://colab.research.google.com/drive/1jYMCz0MCB4f9888AQvpTt0VCwD3Y0qcA?usp=sharing
+
 ## 🚀 Características Principales
 
 *   **Arquitectura Multi-Fuente:** Integración simultánea de tres tipos de bases de datos:
